@@ -24,7 +24,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="你好啊陌生人3!"
+        android:text="你好啊陌生人4!"
         />
 
 </LinearLayout>
