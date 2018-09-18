@@ -20,11 +20,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="分支8"
+        android:text="分支3"
         />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="共同1"
+        android:text="共同3"
         />
 </LinearLayout>
